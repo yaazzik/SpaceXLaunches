@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Mexcellent;
+    src: url("./assets/fonts/mexcellent.3d-regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Mexcellent;
+    font-weight: bold;
+    src: url("./assets/fonts/mexcellent.3d-regular.otf") format("opentype");
+}
+
+.App {
+    text-align: center;
+    background-color: black;
+    min-height: 100vh;
+    color: white;
+}
+
+a {
+    color: #000 !important;
+    text-decoration: none
+}
